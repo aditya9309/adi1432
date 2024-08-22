@@ -1,0 +1,13 @@
+# Query: Rishabh Mishra
+# ContextLines: 1
+
+2 results - 1 file
+
+index.html:
+  149  		          		<span class="subheading">Hello!</span>
+  150: 			            <h1 class="mb-4 mt-3">I'm <span>Aditya Sonawane</span></h1>
+  151  
+
+  221  									  <div class="about-info">
+  222: 										<p><span class="title-s">Name: </span> <span>Aditya Sonawane</span></p>
+  223  										<p><span class="title-s">Job Role: </span> <span>Senior Data Analyst</span></p>
